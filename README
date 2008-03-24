@@ -1,0 +1,6 @@
+merb-hpreserve
+=========
+
+A plugin for the Merb framework that provides template support 
+for hpreserve (http://github.com/mattly/hpreserve/) 
+
